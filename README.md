@@ -1,1 +1,1 @@
-# Open-Bionics.github.io
+# OpenBionics.github.io
