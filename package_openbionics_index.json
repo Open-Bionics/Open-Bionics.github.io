@@ -17,7 +17,7 @@
           "name": "Open Bionics - Developer Boards",
           "version": "1.0.0",
           "architecture":  "samd",          // ???? architecture
-          "archiveFileName": "???",         // ???? filename
+          "archiveFileName": "openbionics-samd-1.0.0.tar",         // ???? filename
           "size": "???",                    // ???? size
          
            "boards": [
