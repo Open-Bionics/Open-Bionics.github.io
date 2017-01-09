@@ -14,10 +14,10 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://open-bionics.github.io/boards/openbionics-samd-1.0.0.tar.7z",
-          "archiveFileName": "openbionics-samd-1.0.0.tar.7z",
-          "checksum": "SHA-256:2C9D32957F9F7B58B34E5AC5546E5FDC2BC960949AF5BAE0E020130C64A1DBE6",
-          "size": "710289",
+          "url": "https://open-bionics.github.io/boards/openbionics-samd-1.0.0.zip",
+          "archiveFileName": "openbionics-samd-1.0.0.zip",
+          "checksum": "SHA-256:1CB18EDE12E7E3DAD61A397089FA272BCE0A6EE825447426AE79A273252D28A3",
+          "size": "1237122",
           "boards": [
             { "name": "Chestnut" }
           ],
