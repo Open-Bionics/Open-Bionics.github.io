@@ -12,7 +12,7 @@
           "help": {
             "online": "https://www.openbionics.com/"
           },
-          "URL": "https://open-bionics.github.io/Chestnut_PCB/arduino-board-index/openbionics-samd-1.0.0.tar",
+          "URL": "https://github.com/Open-Bionics/Chestnut_PCB/blob/master/arduino-board-index/openbionics-samd-1.0.0.tar",
           "checksum": "SHA-256:C3F1D57C700022E0873B9C482E628E8FC806DB1B33C37E350FEB041163999D12", 
           "name": "Open Bionics - Developer Boards",
           "version": "1.0.0",
