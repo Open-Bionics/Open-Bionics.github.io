@@ -1,26 +1,23 @@
 {
   "packages": [
     {
-      "name":  "openbionics"
+      "name": "openbionics",
       "maintainer": "Open Bionics",
-      "help": {
-        "online": "https://www.openbionics.com"
-      },
       "websiteURL": "https://www.openbionics.com",
+      "email": "ollymcbride@openbionics.com",
+      "help": {
+        "online": "http://openbionics.lefora.com/"
+      },
       "platforms": [
         {
-          "category": "Contributed",
-          "help": {
-            "online": "https://www.openbionics.com"
-          },
-          "url": "https://open-bionics.github.io/boards/openbionics-samd-1.0.0.tar.7z",
-          "checksum": "SHA-256:2C9D32957F9F7B58B34E5AC5546E5FDC2BC960949AF5BAE0E020130C64A1DBE6",
           "name": "Open Bionics - Developer Boards",
-          "version": "1.0.0",
           "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://open-bionics.github.io/boards/openbionics-samd-1.0.0.tar.7z",
           "archiveFileName": "openbionics-samd-1.0.0.tar.7z",
+          "checksum": "SHA-256:2C9D32957F9F7B58B34E5AC5546E5FDC2BC960949AF5BAE0E020130C64A1DBE6",
           "size": "710289",
-
           "boards": [
             { "name": "Chestnut" }
           ],
