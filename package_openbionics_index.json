@@ -12,20 +12,19 @@
           "help": {
             "online": "https://www.openbionics.com/"
           },
-          "URL": "https://open-bionics.github.io/Open-Bionics.github.io/openbionics-samd-1.0.0.tar", // ???? download URL
-          "checksum": "SHA-256:C3F1D57C700022E0873B9C482E628E8FC806DB1B33C37E350FEB041163999D12", // ???? checksum
+          "URL": "https://open-bionics.github.io/Open-Bionics.github.io/openbionics-samd-1.0.0.tar",
+          "checksum": "SHA-256:C3F1D57C700022E0873B9C482E628E8FC806DB1B33C37E350FEB041163999D12", 
           "name": "Open Bionics - Developer Boards",
           "version": "1.0.0",
-          "architecture": "samd", // ???? architecture
-          "archiveFileName": "openbionics-samd-1.0.0.tar", // ???? filename
-          "size": "3867136", // ???? size
+          "architecture": "samd",
+          "archiveFileName": "openbionics-samd-1.0.0.tar", 
+          "size": "3867136", 
 
           "boards": [
             { "name": "Chestnut/Chestnut+" }
           ],
 
-
-          "toolsDependencies": [ // ????
+          "toolsDependencies": [ 
             {
               "packager": "openbionics",
               "version": "4.8.3-2014q1",
