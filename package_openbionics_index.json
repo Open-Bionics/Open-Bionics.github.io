@@ -12,16 +12,16 @@
           "help": {
             "online": "https://www.openbionics.com/"
           },
-          "url": "https://adafruit.github.io/arduino-board-index/boards/adafruit-samd-1.0.9.tar.bz2",
-          "checksum": "SHA-256:6c860af3acc1874a90fff665d0e9fd87f7fc01ecffdc04c989d28823f4eece03", 
+          "URL": "https://open-bionics.github.io/Open-Bionics.github.io/boards/openbionics-samd-1.0.0.tar.7z",
+          "checksum": "SHA-256:2C9D32957F9F7B58B34E5AC5546E5FDC2BC960949AF5BAE0E020130C64A1DBE6", 
           "name": "Open Bionics - Developer Boards",
           "version": "1.0.0",
           "architecture": "samd",
-          "archiveFileName": "adafruit-samd-1.0.9.tar.bz2",
-          "size": "9783793", 
+          "archiveFileName": "openbionics-samd-1.0.0.tar.7z", 
+          "size": "710289", 
 
           "boards": [
-            { "name": "Chestnut/Chestnut+" }
+            { "name": "Chestnut" }
           ],
 
           "toolsDependencies": [ 
