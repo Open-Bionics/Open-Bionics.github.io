@@ -12,7 +12,7 @@
           "help": {
             "online": "https://www.openbionics.com/"
           },
-          "URL": "https://adafruit.github.io/arduino-board-index/boards/adafruit-samd-1.0.9.tar.bz2",
+          "url": "https://adafruit.github.io/arduino-board-index/boards/adafruit-samd-1.0.9.tar.bz2",
           "checksum": "SHA-256:6c860af3acc1874a90fff665d0e9fd87f7fc01ecffdc04c989d28823f4eece03", 
           "name": "Open Bionics - Developer Boards",
           "version": "1.0.0",
