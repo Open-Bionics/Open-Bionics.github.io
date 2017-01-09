@@ -12,7 +12,7 @@
           "help": {
             "online": "https://www.openbionics.com/"
           },
-          "URL": "https://open-bionics.github.io/Open-Bionics.github.io/boards/openbionics-samd-1.0.0.tar.7z",
+          "URL": "https://open-bionics.github.io/boards/openbionics-samd-1.0.0.tar.7z"
           "checksum": "SHA-256:2C9D32957F9F7B58B34E5AC5546E5FDC2BC960949AF5BAE0E020130C64A1DBE6", 
           "name": "Open Bionics - Developer Boards",
           "version": "1.0.0",
