@@ -1,10 +1,11 @@
 {
   "packages": [
     {
+      "name":  "openbionics"
       "maintainer": "Open Bionics",
       "help": {
         "online": "https://www.openbionics.com"
-       },
+      },
       "websiteURL": "https://www.openbionics.com",
       "platforms": [
         {
