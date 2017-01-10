@@ -16,10 +16,10 @@
           "category": "Contributed",
           "url": "https://open-bionics.github.io/boards/openbionics-samd-1.0.0.zip",
           "archiveFileName": "openbionics-samd-1.0.0.zip",
-          "checksum": "SHA-256:1CB18EDE12E7E3DAD61A397089FA272BCE0A6EE825447426AE79A273252D28A3",
-          "size": "1237122",
+          "checksum": "SHA-256:E41B2DED77ACDF3AE35A3809D15CD13BF7E452DD7524821C9C13B39BB126539F",
+          "size": "1192489",
           "boards": [
-            { "name": "Chestnut" }
+            { "name": "Chestnut/Chestnut+" }
           ],
 
           "toolsDependencies": [
