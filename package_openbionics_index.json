@@ -19,7 +19,7 @@
           "checksum": "SHA-256:E41B2DED77ACDF3AE35A3809D15CD13BF7E452DD7524821C9C13B39BB126539F",
           "size": "1192489",
           "boards": [
-            { "name": "Chestnut/Chestnut+" }
+            { "name": "Chestnut" }
           ],
 
           "toolsDependencies": [
