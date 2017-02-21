@@ -1,8 +1,14 @@
-SAMD CORE 1.6.6
+openbionics-samd 1.2.0
 
-* digitalPinToInterrupt #define moved to Arduino.h, variant.h must no longer define it
+* added OB1 EMG
+* changed OB1 board to OB1 Hand Controller
+* fixed Chestnut
 
-SAMD CORE 1.6.3
+openbionics-samd 1.1.0
 
-* Timer for pin PWM selected based on value of PIN_ATTR_TIMER_ALT or PIN_ATTR_TIMER,
-  prior to this "pin type" (ulPinType) was used
+* added OB1 board
+* changed Chesnut/Chesntut+ to Chestnut
+
+openbionics-samd 1.0.0
+
+* added Chestnut/Chestnut+ PCB

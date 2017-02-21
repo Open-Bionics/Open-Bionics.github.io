@@ -16,7 +16,7 @@
 
 # Open Bionics Chestnut
 # ---------------------------------------
-ob_chestnut.name=Open Bionics Chestnut
+ob_chestnut.name=Chestnut
 ob_chestnut.vid.0=0x2341
 ob_chestnut.pid.0=0x804d
 ob_chestnut.vid.1=0x2341
@@ -37,7 +37,7 @@ ob_chestnut.build.core=arduino
 ob_chestnut.build.extra_flags=-D__SAMD21G18A__ {build.usb_flags}
 ob_chestnut.build.ldscript=linker_scripts/gcc/flash_with_bootloader.ld
 ob_chestnut.build.openocdscript=openocd_scripts/arduino_zero.cfg
-ob_chestnut.build.variant=arduino_zero
+ob_chestnut.build.variant=chestnut
 ob_chestnut.build.variant_system_lib=
 ob_chestnut.build.vid=0x2341
 ob_chestnut.build.pid=0x804d
@@ -68,7 +68,7 @@ OB1.build.core=arduino
 OB1.build.extra_flags=-D__SAMD21G18A__ {build.usb_flags}
 OB1.build.ldscript=linker_scripts/gcc/flash_with_bootloader.ld
 OB1.build.openocdscript=openocd_scripts/arduino_zero.cfg
-OB1.build.variant=arduino_zero
+OB1.build.variant=ob1_hand_controller
 OB1.build.variant_system_lib=
 OB1.build.vid=0x2341
 OB1.build.pid=0x804d
@@ -98,7 +98,7 @@ OB1.build.core=arduino
 OB1.build.extra_flags=-D__SAMD21G18A__ {build.usb_flags}
 OB1.build.ldscript=linker_scripts/gcc/flash_with_bootloader.ld
 OB1.build.openocdscript=openocd_scripts/arduino_zero.cfg
-OB1.build.variant=arduino_zero
+OB1.build.variant=ob1_emg
 OB1.build.variant_system_lib=
 OB1.build.vid=0x2341
 OB1.build.pid=0x804d

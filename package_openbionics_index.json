@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://open-bionics.github.io/boards/openbionics-samd-1.2.0.zip",
           "archiveFileName": "openbionics-samd-1.2.0.zip",
-          "checksum": "SHA-256:DEC76837EE65AD8BADC4B55A564AC2C9D0D45002981E28B0AF5EE89784486774",
-          "size": "1228912",
+          "checksum": "SHA-256:9522D890C75C71A6D248BEDC987CC263E9D99EF7B8D9C69EA1A8652668C709DB",
+          "size": "1228866",
           "boards": [
             { "name": "Chestnut" },
             { "name": "OB1 Hand Controller" },
