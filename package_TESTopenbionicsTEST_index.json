@@ -1,0 +1,59 @@
+{
+  "packages": [
+    {
+      "name": "openbionics",
+      "maintainer": "Open Bionics",
+      "websiteURL": "https://www.openbionics.com",
+      "email": "ollymcbride@openbionics.com",
+      "help": {
+        "online": "http://openbionics.lefora.com/"
+      },
+      "platforms": [
+
+        {
+          "name": "TEST OB TEST",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://open-bionics.github.io/boards/openbionics-samd-0.0.1.zip",
+          "archiveFileName": "TESTopenbionicsTEST-samd-0.0.1.zip",
+          "checksum": "SHA-256:37571C9D1EDBD23A7D27E85B3CD30214E96CEE533815BED5E74BFDF7C51481BF",
+          "size": "3921429",
+          "boards": [
+            { "name": "TEST OB1 EMG TEST" }
+          ],
+
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "version": "4.8.3-2014q1",
+              "name": "arm-none-eabi-gcc"
+            },
+            {
+              "packager": "arduino",
+              "version": "1.6.1-arduino",
+              "name": "bossac"
+            },
+            {
+              "packager": "arduino",
+              "version": "0.9.0-arduino",
+              "name": "openocd"
+            },
+            {
+              "packager": "arduino",
+              "version": "4.0.0-atmel",
+              "name": "CMSIS"
+            }
+          ]
+        }
+      ],
+
+      "tools": [ ]
+    }
+  ]
+}
