@@ -1,6 +1,7 @@
 openbionics-samd 1.2.3
 
 * added PWM functionality to LED on D4 (PB10) - OB1 EMG
+* changed PWM timer on PA19 to alternate timer (PA19) - OB1 HC
 
 openbionics-samd 1.2.2
 
