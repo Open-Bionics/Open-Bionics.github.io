@@ -108,10 +108,10 @@ static const uint8_t A6 = PIN_A6;
  * Serial interfaces
  */
 // Serial (EDBG)
-//#define PIN_SERIAL_RX       (29ul)
-//#define PIN_SERIAL_TX       (30ul)
-//#define PAD_SERIAL_TX       (UART_TX_PAD_2)
-//#define PAD_SERIAL_RX       (SERCOM_RX_PAD_3)
+#define PIN_SERIAL_RX       (29ul)
+#define PIN_SERIAL_TX       (30ul)
+#define PAD_SERIAL_TX       (UART_TX_PAD_2)
+#define PAD_SERIAL_RX       (SERCOM_RX_PAD_3)
 
 /*
  * SPI Interfaces
@@ -165,7 +165,7 @@ extern SERCOM sercom3;
 extern SERCOM sercom4;
 extern SERCOM sercom5;
 
-//extern Uart Serial;
+extern Uart Serial;
 
 #endif
 
@@ -187,8 +187,8 @@ extern SERCOM sercom5;
 #define SERIAL_PORT_USBVIRTUAL      SerialUSB
 #define SERIAL_PORT_MONITOR         SerialUSB
 // Serial has no physical pins broken out, so it's not listed as HARDWARE port
-#define SERIAL_PORT_HARDWARE        SerialUSB
-#define SERIAL_PORT_HARDWARE_OPEN   SerialUSB
+#define SERIAL_PORT_HARDWARE        Serial
+#define SERIAL_PORT_HARDWARE_OPEN   Serial
 
 #endif /* _VARIANT_ARDUINO_ZERO_ */
 

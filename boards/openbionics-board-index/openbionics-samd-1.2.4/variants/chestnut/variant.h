@@ -152,6 +152,11 @@ static const uint8_t SCL = PIN_WIRE_SCL;
 #define PIN_USB_DM          (21ul)
 #define PIN_USB_DP          (22ul)
 
+/*
+ * Serial compatibility
+ */
+#define Serial SerialUSB
+
 #ifdef __cplusplus
 }
 #endif
