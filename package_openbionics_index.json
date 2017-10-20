@@ -11,14 +11,14 @@
       "platforms": [
 
         {
-          "name": "Open Bionics Boards - Dev",
+          "name": "Open Bionics Boards",
           "architecture": "samd",
           "version": "1.2.7",
           "category": "Contributed",
           "url": "https://open-bionics.github.io/boards/openbionics-samd-1.2.7.zip",
           "archiveFileName": "openbionics-samd-1.2.7.zip",
-          "checksum": "SHA-256:231355A32E742686E140856F4756CA38D5FA3FA4B7A809BF616F5F1BAFBEA0C6",
-          "size": "1180802",
+          "checksum": "SHA-256:47D3C60799A6C34431347F716415B07C9ACF7ADBCB7F6702D1ED87081113ABBF",
+          "size": "1180804",
           "boards": [
             { "name": "Chestnut" },
             { "name": "OB1 Hand Controller" },
@@ -50,7 +50,7 @@
         },
 
         {
-          "name": "Open Bionics Boards - Dev",
+          "name": "Open Bionics Boards",
           "architecture": "samd",
           "version": "1.2.6",
           "category": "Contributed",
@@ -89,7 +89,7 @@
         },
 
         {
-          "name": "Open Bionics Boards - Dev",
+          "name": "Open Bionics Boards",
           "architecture": "samd",
           "version": "1.2.5",
           "category": "Contributed",
@@ -128,7 +128,7 @@
         },
 
         {
-          "name": "Open Bionics Boards - Dev",
+          "name": "Open Bionics Boards",
           "architecture": "samd",
           "version": "1.2.4",
           "category": "Contributed",
@@ -167,7 +167,7 @@
         },
 
         {
-          "name": "Open Bionics Boards - Dev",
+          "name": "Open Bionics Boards",
           "architecture": "samd",
           "version": "1.2.3",
           "category": "Contributed",
@@ -207,7 +207,7 @@
 
 
         {
-          "name": "Open Bionics Boards - Dev",
+          "name": "Open Bionics Boards",
           "architecture": "samd",
           "version": "1.2.2",
           "category": "Contributed",
@@ -248,7 +248,7 @@
 
 
         {
-          "name": "Open Bionics Boards - Dev",
+          "name": "Open Bionics Boards",
           "architecture": "samd",
           "version": "1.2.1",
           "category": "Contributed",
@@ -290,7 +290,7 @@
 
 
         {
-          "name": "Open Bionics Boards - Dev",
+          "name": "Open Bionics Boards",
           "architecture": "samd",
           "version": "1.2.0",
           "category": "Contributed",
