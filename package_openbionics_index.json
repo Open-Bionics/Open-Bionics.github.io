@@ -13,6 +13,50 @@
 		{
 		    "name": "Open Bionics Boards",
 		    "architecture": "samd",
+		    "version": "1.2.21",
+		    "category": "Contributed",
+		    "url": "https://open-bionics.github.io/boards/openbionics-samd-1.2.21.zip",
+		    "archiveFileName": "openbionics-samd-1.2.21.zip",
+		    "checksum": "SHA-256:4B96B334C5390C1F44D6B184DDC5244551BD6D1A81F03F6468EEF3F3E13324D6",
+		    "size": "3507692",
+		    "boards": [
+		        {
+		            "name": "Chestnut"
+		        },
+		        {
+		            "name": "OB1 Hand Controller"
+		        },
+		        {
+		            "name": "OB1 Hand Controller - Shifted"
+		        }
+		    ],
+		    "toolsDependencies": [
+		        {
+		            "packager": "arduino",
+		            "version": "4.8.3-2014q1",
+		            "name": "arm-none-eabi-gcc"
+		        },
+		        {
+		            "packager": "arduino",
+		            "version": "1.6.1-arduino",
+		            "name": "bossac"
+		        },
+		        {
+		            "packager": "arduino",
+		            "version": "0.9.0-arduino",
+		            "name": "openocd"
+		        },
+		        {
+		            "packager": "arduino",
+		            "version": "4.0.0-atmel",
+		            "name": "CMSIS"
+		        }
+		    ]
+		},
+
+		{
+		    "name": "Open Bionics Boards",
+		    "architecture": "samd",
 		    "version": "1.2.20",
 		    "category": "Contributed",
 		    "url": "https://open-bionics.github.io/boards/openbionics-samd-1.2.20.zip",
